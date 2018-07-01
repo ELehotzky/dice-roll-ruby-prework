@@ -4,6 +4,5 @@
 
 def roll
   rand(1...7)
+  return roll
 end
-
-return roll
